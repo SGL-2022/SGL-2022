@@ -5,11 +5,11 @@
 
 **_<h2>Conocimientos:</h2>_**
 
-    ✍️ Tengo conocimiento en lenguajes como JavaScript, C# y Kotlin.
+1.  Tengo conocimiento en lenguajes como JavaScript, C# y Kotlin.
 
-    ✍️ Manejo de herramientas de front como React, React-Redux.
+2.  Manejo de herramientas de front como React, React-Redux.
 
-    ✍️ Base de datos en SQL Server, MySQL y Postgres SQL.
+3.  Base de datos en SQL Server, MySQL y Postgres SQL.
 
 **_<h2>Experiencia laboral:</h2>_**
 
