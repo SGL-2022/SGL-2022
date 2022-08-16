@@ -13,9 +13,9 @@
 
 **_<h2>Experiencia laboral:</h2>_**
 
-    ✍️ Principalmente en el ambito académico, conocimiento base de algoritmos y programación en la institución Von Braun, durante 3 años de estudios en la carrera de automatización y desarrollo de sistemas, donde obtuve base solida y basica en la programación de escritorio, logrando realizar proyectos individuales, como programas de ventas personalizado para 2 negocios.
+1.  Principalmente en el ambito académico, conocimiento base de algoritmos y programación en la institución Von Braun, durante 3 años de estudios en la carrera de automatización y desarrollo de sistemas, donde obtuve base solida y basica en la programación de escritorio, logrando realizar proyectos individuales, como programas de ventas personalizado para 2 negocios.
 
-    ✍️ Actualmente me encuentro finalizando en el bootcamp Soy Henry, donde pude pulir y mejorar mis capacidades técnicas y logicas permitiendome tener mejor desempeño en el ambito laboral.
+2.  Actualmente me encuentro finalizando en el bootcamp Soy Henry, donde pude pulir y mejorar mis capacidades técnicas y logicas permitiendome tener mejor desempeño en el ambito laboral.
 
 **<h3 align="left">Contacto:</h3>**
 <p align="left">
